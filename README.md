@@ -37,7 +37,7 @@ https://github.com/vokhlachev/starwars-ux-ui.git
 ```
 3. Open code in any IDE
 
-4. Enjoy! :smile:
+4. Enjoy!! :smile:
 
 ## Contact
 
