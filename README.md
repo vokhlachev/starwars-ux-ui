@@ -27,7 +27,7 @@ Here I am coding FIG mockup from Figma (vector editor like Sketch) into HTML/CSS
 
 ### Prerequisites:
 
-To open and use FIG mockup (starwars.fig) you need to log in in Figma (https://www.figma.com/)
+To open and use FIG mockup (starwars.fig) you need to log in into Figma (https://www.figma.com/)
 
 ### Installation
 
